@@ -1,0 +1,342 @@
+{
+    "Required Courses (33 credits)": [
+        [
+            "* Students who have sufficient knowledge in a programming language do not need to take COMP 202."
+        ],
+        [
+            [
+                "COMP 202",
+                "Foundations of Programming ",
+                "3",
+                "Fall 2022, Winter 2023, Summer 2023",
+                "Offered by: Computer Science (Faculty of Science)",
+                "Computer Science (Sci) : Introduction to computer programming in a high level language: variables, expressions, primitive types, methods, conditionals, loops. Introduction to algorithms, data structures (arrays, strings), modular software design, libraries, file input/output, debugging, exception handling. Selected topics.",
+                "Campbell, Jonathan (Fall) M'hiri, Faten (Winter) M'hiri, Faten (Summer)",
+                [
+                    "Prerequisite: a CEGEP level mathematics course"
+                ],
+                [],
+                [
+                    "Restrictions: Not open to students who have taken or are taking COMP 204, COMP 208, or GEOG 333; not open to students who have taken or are taking COMP 206 or COMP 250."
+                ],
+                [
+                    "3 hours",
+                    "COMP 202 is intended as a general introductory course, while COMP 204 is intended for students in life sciences, and COMP 208 is intended for students in physical sciences and engineering."
+                ]
+            ],
+            [
+                "COMP 206",
+                "Introduction to Software Systems",
+                "3",
+                "Fall 2022, Winter 2023",
+                "Offered by: Computer Science (Faculty of Science)",
+                "Computer Science (Sci) : Comprehensive overview of programming in C, use of system calls and libraries, debugging and testing of code; use of developmental tools like make, version control systems.",
+                "D'silva, Joseph (Fall) Errington, Jacob; Vybihal, Joseph P (Winter)",
+                [
+                    "Prerequisite: COMP 202 or COMP 250"
+                ],
+                [],
+                [],
+                [
+                    "3 hours"
+                ]
+            ],
+            [
+                "COMP 250",
+                "Introduction to Computer Science",
+                "3",
+                "Fall 2022, Winter 2023",
+                "Offered by: Computer Science (Faculty of Science)",
+                "Computer Science (Sci) : Mathematical tools (binary numbers, induction, recurrence relations, asymptotic complexity, establishing correctness of programs), Data structures (arrays, stacks, queues, linked lists, trees, binary trees, binary search trees, heaps, hash tables), Recursive and non-recursive algorithms (searching and sorting, tree and graph traversal). Abstract data types, inheritance. Selected topics.",
+                "Alberini, Giulia (Fall) Alberini, Giulia (Winter)",
+                [
+                    "Prerequisites: Familiarity with a high level programming language and CEGEP level Math."
+                ],
+                [],
+                [],
+                [
+                    "3 hours",
+                    "Students with limited programming experience should take COMP 202 or equivalent before COMP 250. See COMP 202 Course Description for a list of topics."
+                ]
+            ],
+            [
+                "COMP 251",
+                "Algorithms and Data Structures",
+                "3",
+                "Fall 2022, Winter 2023",
+                "Offered by: Computer Science (Faculty of Science)",
+                "Computer Science (Sci) : Introduction to algorithm design and analysis. Graph algorithms, greedy algorithms, data structures, dynamic programming, maximum flows.",
+                "Waldispuhl, Jérôme; Alberini, Giulia (Fall) Becerra, David (Winter)",
+                [
+                    "Prerequisites: COMP 250; MATH 235 or MATH 240"
+                ],
+                [],
+                [
+                    "Restrictions: Not open to students who have taken or are taking COMP 252."
+                ],
+                [
+                    "3 hours",
+                    "COMP 251 uses mathematical proof techniques that are taught in the corequisite course(s). If possible, students should take the corequisite course prior to COMP 251.",
+                    "COMP 251 uses basic counting techniques (permutations and combinations) that are covered in MATH 240 but not in MATH 235. These techniques will be reviewed for the benefit of MATH 235 students."
+                ]
+            ],
+            [
+                "COMP 273",
+                "Introduction to Computer Systems",
+                "3",
+                "Fall 2022, Winter 2023",
+                "Offered by: Computer Science (Faculty of Science)",
+                "Computer Science (Sci) : Number representations, combinational and sequential digital circuits, MIPS instructions and architecture datapath and control, caches, virtual memory, interrupts and exceptions, pipelining.",
+                "Vybihal, Joseph P (Fall) Kry, Paul; Elsaadawy, Mona (Winter)",
+                [],
+                [],
+                [],
+                [
+                    "3 hours"
+                ]
+            ],
+            [
+                "COMP 302",
+                "Programming Languages and Paradigms",
+                "3",
+                "Fall 2022, Winter 2023",
+                "Offered by: Computer Science (Faculty of Science)",
+                "Computer Science (Sci) : Programming language design issues and programming paradigms. Binding and scoping, parameter passing, lambda abstraction, data abstraction, type checking. Functional and logic programming.",
+                "Errington, Jacob (Fall) Errington, Jacob (Winter)",
+                [
+                    "Prerequisite(s): COMP 250 and (MATH 240 or MATH 235 or MATH 318 or COMP 230 or PHIL 210)"
+                ],
+                [],
+                [],
+                [
+                    "  3 hours"
+                ]
+            ],
+            [
+                "COMP 303",
+                "Software Design",
+                "3",
+                "Fall 2022, Winter 2023",
+                "Offered by: Computer Science (Faculty of Science)",
+                "Computer Science (Sci) : Principles, mechanisms, techniques, and tools for object-oriented software design and its implementation, including encapsulation, design patterns, and unit testing.",
+                "Robillard, Martin (Fall) Guo, Jin (Winter)",
+                [
+                    "Prerequisites: COMP 206, COMP 250."
+                ],
+                [],
+                [],
+                [
+                    "3 hours"
+                ]
+            ],
+            [
+                "COMP 310",
+                "Operating Systems",
+                "3",
+                "Fall 2022, Winter 2023",
+                "Offered by: Computer Science (Faculty of Science)",
+                "Computer Science (Sci) : Control and scheduling of large information processing systems. Operating system software - resource allocation, dispatching, processors, access methods, job control languages, main storage management. Batch processing, multiprogramming, multiprocessing, time sharing.",
+                "Maheswaran, Muthucumaru (Fall) Balmau, Oana (Winter)",
+                [
+                    "Prerequisite: COMP 273 "
+                ],
+                [],
+                [],
+                [
+                    "3 hours"
+                ]
+            ],
+            [
+                "MATH 222",
+                "Calculus 3",
+                "3",
+                "Fall 2022, Winter 2023, Summer 2023",
+                "Offered by: Mathematics and Statistics (Faculty of Science)",
+                "Mathematics & Statistics (Sci) : Taylor series, Taylor's theorem in one and several variables. Review of vector geometry. Partial differentiation, directional derivative. Extreme of functions of 2 or 3 variables. Parametric curves and arc length. Polar and spherical coordinates. Multiple integrals.",
+                "Paquette, Elliot; Wrobel, Konrad (Fall) Trudeau, Sidney (Winter) Barill, Gavin (Summer)",
+                [
+                    "Prerequisite: MATH 141. Familiarity with vector geometry or Corequisite: MATH 133"
+                ],
+                [],
+                [
+                    "Restriction: Not open to students who have taken MATH 150, MATH 151 or MATH 262."
+                ],
+                []
+            ],
+            [
+                "MATH 223",
+                "Linear Algebra",
+                "3",
+                "Fall 2022, Winter 2023",
+                "Offered by: Mathematics and Statistics (Faculty of Science)",
+                "Mathematics & Statistics (Sci) : Review of matrix algebra, determinants and systems of linear equations. Vector spaces, linear operators and their matrix representations, orthogonality. Eigenvalues and eigenvectors, diagonalization of Hermitian matrices. Applications.",
+                "Macdonald, Jeremy; Pichot, Mikael (Fall) Macdonald, Jeremy (Winter)",
+                [
+                    "Prerequisite: MATH 133 or equivalent "
+                ],
+                [],
+                [
+                    "Restriction: Not open to students in Mathematics programs nor to students who have taken or are taking MATH 236, MATH 247 or MATH 251. It is open to students in Faculty Programs"
+                ],
+                []
+            ],
+            [
+                "MATH 240",
+                "Discrete Structures",
+                "3",
+                "Fall 2022, Winter 2023",
+                "Offered by: Mathematics and Statistics (Faculty of Science)",
+                "Mathematics & Statistics (Sci) : Introduction to discrete mathematics and applications. Logical reasoning and methods of proof. Elementary number theory and cryptography: prime numbers, modular equations, RSA encryption. Combinatorics: basic enumeration, combinatorial methods, recurrence equations. Graph theory: trees, cycles, planar\ngraphs.",
+                "Vetta, Adrian Roshan; Fortier, Jérôme (Fall) Fortier, Jérôme; Macdonald, Jeremy (Winter)",
+                [],
+                [],
+                [
+                    "Restriction: For students in any Computer Science, Computer Engineering, or Software Engineering programs. Others only with the instructor's permission. Not open to students who have taken or are taking MATH 235."
+                ],
+                []
+            ]
+        ]
+    ],
+    "": [
+        [
+            "At least 6 credits selected from:"
+        ],
+        [
+            [
+                "COMP 330",
+                "Theory of Computation",
+                "3",
+                "Fall 2022, Winter 2023",
+                "Offered by: Computer Science (Faculty of Science)",
+                "Computer Science (Sci) : Finite automata, regular languages, context-free languages, push-down automata, models of computation, computability theory, undecidability, reduction techniques.",
+                "Panangaden, Prakash (Fall) Crépeau, Claude (Winter)",
+                [
+                    "Prerequisite: COMP 251."
+                ],
+                [],
+                [],
+                [
+                    "3 hours"
+                ]
+            ],
+            [
+                "COMP 350",
+                "Numerical Computing",
+                "3",
+                "Fall 2022",
+                "Offered by: Computer Science (Faculty of Science)",
+                "Computer Science (Sci) : Computer representation of numbers, IEEE Standard for Floating Point Representation, computer arithmetic and rounding errors. Numerical stability. Matrix computations and software systems. Polynomial interpolation. Least-squares approximation. Iterative methods for solving a nonlinear equation. Discretization methods for integration and differential equations.",
+                "Chang, Xiao-Wen (Fall)",
+                [
+                    "Prerequisites: MATH 222 and MATH 223 and one of: COMP 202, COMP 208, COMP 250; or equivalents."
+                ],
+                [],
+                [
+                    "Restrictions: Students cannot receive credit for both COMP 350 and MATH 317."
+                ],
+                [
+                    "3 hours"
+                ]
+            ],
+            [
+                "COMP 360",
+                "Algorithm Design",
+                "3",
+                "Fall 2022, Winter 2023",
+                "Offered by: Computer Science (Faculty of Science)",
+                "Computer Science (Sci) : Advanced algorithm design and analysis. Linear programming, complexity and NP-completeness, advanced algorithmic techniques.",
+                "Robere, Robert (Fall) Hatami, Hamed (Winter)",
+                [
+                    "Prerequisite: Either COMP 251 or COMP 252, and either MATH 240 or MATH 235 or MATH 363."
+                ],
+                [],
+                [
+                    "Restriction: Not open to students who have taken or are taking COMP 362."
+                ],
+                [
+                    "3 hours"
+                ]
+            ]
+        ],
+        [
+            [
+                "3-9 credits selected from:\n* Must include at least one of MATH 323 and MATH 340."
+            ],
+            [
+                [
+                    "MATH 318",
+                    "Mathematical Logic",
+                    "3",
+                    "Fall 2022",
+                    "Offered by: Mathematics and Statistics (Faculty of Science)",
+                    "Mathematics & Statistics (Sci) : Propositional logic: truth-tables, formal proof systems, completeness and compactness theorems, Boolean algebras; first-order logic: formal proofs, Gödel's completeness theorem; axiomatic theories; set theory; Cantor's theorem, axiom of choice and Zorn's lemma, Peano arithmetic; Gödel's incompleteness theorem.",
+                    "Sabok, Marcin (Fall)",
+                    [
+                        "Prerequisite(s): MATH 235 or MATH 240 or MATH 242."
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                [
+                    "MATH 323",
+                    "Probability ",
+                    "3",
+                    "Fall 2022, Winter 2023, Summer 2023",
+                    "Offered by: Mathematics and Statistics (Faculty of Science)",
+                    "Mathematics & Statistics (Sci) : Sample space, events, conditional probability, independence of events, Bayes' Theorem. Basic combinatorial probability, random variables, discrete and continuous univariate and multivariate distributions. Independence of random variables. Inequalities, weak law of large numbers, central limit theorem.",
+                    "Nadarajah, Tharshanna; Sajjad, Alia (Fall) Asgharian, Masoud; Sajjad, Alia (Winter) Kelome, Djivede (Summer)",
+                    [
+                        "Prerequisites: MATH 141 or equivalent."
+                    ],
+                    [],
+                    [
+                        "Restriction: Intended for students in Science, Engineering and related disciplines, who have had differential and integral calculus",
+                        "Restriction: Not open to students who have taken or are taking MATH 356"
+                    ],
+                    []
+                ],
+                [
+                    "MATH 324",
+                    "Statistics",
+                    "3",
+                    "Fall 2022, Winter 2023",
+                    "You may not be able to receive credit for this course and other statistic courses. Be sure to check the Course Overlap section under Faculty Degree Requirements in the Arts or Science section of the Calendar.",
+                    "Mathematics & Statistics (Sci) : Sampling distributions, point and interval estimation, hypothesis testing, analysis of variance, contingency tables, nonparametric inference, regression, Bayesian inference.",
+                    "Nadarajah, Tharshanna (Fall) Nadarajah, Tharshanna (Winter)",
+                    [
+                        "Prerequisite: MATH 323 or equivalent "
+                    ],
+                    [],
+                    [
+                        "Restriction: Not open to students who have taken or are taking MATH 357"
+                    ],
+                    []
+                ],
+                [
+                    "MATH 340",
+                    "Discrete\r Mathematics ",
+                    "3",
+                    "Winter 2023",
+                    "Offered by: Mathematics and Statistics (Faculty of Science)",
+                    "Mathematics & Statistics (Sci) : Discrete Mathematics and applications. Graph Theory: matchings, planarity, and colouring. Discrete probability. Combinatorics: enumeration, combinatorial techniques and proofs.",
+                    "Norin, Sergey (Winter)",
+                    [
+                        "Prerequisites: MATH 235 or MATH 240 or MATH 242."
+                    ],
+                    [],
+                    [
+                        "Restriction: Restriction: Not open to students who have taken or are taking MATH 350."
+                    ],
+                    []
+                ]
+            ]
+        ],
+        [
+            [
+                "The remaining credits selected from computer science courses at the 300 level or above (except COMP 364 and COMP 396) and ECSE 539. "
+            ],
+            []
+        ]
+    ]
+}
